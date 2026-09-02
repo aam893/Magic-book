@@ -1,0 +1,6 @@
+{
+  "name": "LinguaRead",
+  "description": "Interactive bilingual reader with AI story generation, instant tap-to-translate, text-to-speech audio, and vocabulary flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
